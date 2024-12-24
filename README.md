@@ -1,7 +1,9 @@
 # Natty or Not - Explorando o Poder das IAs Generativas
 
 ## 📒 Descrição
-Este projeto utiliza IAs generativas para criar conteúdos visuais e textuais realistas, explorando o limite entre o que é "natural" e "artificial". A proposta é desafiar a percepção humana ao identificar o que é feito por máquinas.
+Este projeto utiliza IAs generativas para criar conteúdos visuais e textuais realistas, criando o E-BOOK: E-book Manter_se Atualizado com as Normas Externas Um Guia para Auditores Internos de Instituições Financeiras no Brasil. 
+
+
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Para gerar textos descritivos e processar ideias.
