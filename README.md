@@ -5,6 +5,7 @@ Este projeto utiliza IAs generativas para criar conteúdos visuais e textuais re
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Para gerar textos descritivos e processar ideias.
+- **Copilot**: Para gerar textos descritivos e processar ideias.
 - **DALL·E**: Para criar imagens realistas e únicas.
 - **Git e GitHub**: Para versionamento e colaboração do projeto.
 
@@ -21,3 +22,4 @@ Este projeto utiliza IAs generativas para criar conteúdos visuais e textuais re
 
 ## 💭 Reflexão
 Criar algo 'natty' usando IA foi desafiador e inspirador. Esse projeto reforça como a IA pode ser uma ferramenta poderosa para criatividade e inovação, equilibrando tecnologia e arte.
+
