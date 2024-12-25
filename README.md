@@ -2,8 +2,7 @@
 
 ## 📒 Descrição
 Este projeto utiliza IAs generativas para criar conteúdos visuais e textuais realistas, criando o E-BOOK: E-book Manter_se Atualizado com as Normas Externas Um Guia para Auditores Internos de Instituições Financeiras no Brasil. 
-
-
+[📄 Acesse o PDF aqui](https://github.com/FabiDeCarvalho/Fabi-lab-natty-or-not/blob/main/E-book%20Manter_se%20Atualizado%20com%20as%20Normas%20Externas%20Um%20Guia%20para%20Auditores%20Internos%20de%20Institui%C3%A7%C3%B5es%20Financeiras%20no%20Brasil.pdf)
 
 ## 🤖 Tecnologias Utilizadas
 - **ChatGPT**: Para gerar textos descritivos e processar ideias.
